@@ -106,4 +106,5 @@
 
 ## IDEF1X
 <img width="789" height="559" alt="image" src="https://github.com/user-attachments/assets/589eb1bf-6768-4af4-baee-edcbab4dbfaa" />
+
 - **Рис. 4 — IDEF1X**  
