@@ -83,3 +83,8 @@
 3. Запустите:
    ```bash
    python python/database.py
+
+## 📦 MongoDB: миграция и запросы
+
+- [`mongodb/migration-guide.md`](mongodb/migration-guide.md) — пошаговая инструкция по переносу данных из PostgreSQL  
+- [`mongodb/queries-mongodb.js`](mongodb/queries-mongodb.js) — 17 ключевых запросов на MongoDB (агрегации, соединения, представления)
