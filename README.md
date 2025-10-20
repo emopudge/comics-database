@@ -71,3 +71,6 @@
 2. Установите зависимости:  
    ```bash
    pip install -r python/requirements.txt
+3. Запустите:
+   ```bash
+   python python/database.py
